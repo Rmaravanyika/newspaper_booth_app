@@ -1,0 +1,1 @@
+# newspaper_booth_app
